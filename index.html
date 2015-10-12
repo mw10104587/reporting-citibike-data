@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+
+<meta charset="utf-8">
+
+<html>
+<head>
+
+	<link rel="stylesheet" type="text/css" href="css/index.css">
+	<link rel="stylesheet" type="text/css" href="css/nouislider.css">
+
+	<script type="text/javascript" src="js/jquery-2.1.4.js"></script>
+	<script type="text/javascript" src="js/d3.js"></script>
+	<script type="text/javascript" src="js/d3-tip.js"></script>
+	<script src="js/topojson.js"></script>
+	<script type="text/javascript" src="js/nouislider.js"></script>
+	<script type="text/javascript" src="js/index.js"></script>
+</head>
+<body>
+
+
+
+<div class="container">
+	<div class="center">
+		<div id="map-wrap">
+			<svg id="map-svg">
+
+			</svg>
+		</div>
+		<div id="controllers">
+
+			<div id="month-year">
+				<span>You're watching</span>
+				<span id="year">2013</span>
+				<span id="month">August</span>
+			</div>
+
+			<div id="time-slide-wrap">
+				<div id="time-slide"></div>
+			</div>
+
+			<div id="tourist-spot-check">
+				<input type="checkbox" name="hide-tourist-spots" value="hide" id="hide-tourist-checkbox"> Hide Tourist Spots<br>
+			</div>
+
+			<div id="ratio-or-count">
+				<input type="checkbox" name="hide-tourist-spots" value="ratio" id="ratio-or-count-checkbox"> Check This Box if you want to see the absolute count of customers of each station<br>
+			</div>
+			<div id="story">
+				Max single month undock of a station is: 5919, station id: 2006, Central Park S & 6 Ave<br>
+				Max single month dock   of a station is: 6737, station id: 2006, Central Park S & 6 Ave<br>
+			</div>
+
+		</div>
+	</div>
+
+</div>
+
+
+
+</body>
+</html>

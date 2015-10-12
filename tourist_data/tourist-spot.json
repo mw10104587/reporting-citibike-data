@@ -1,0 +1,65 @@
+[{
+	"name": "Brooklyn Bridge",
+	"lat": 40.706086,
+	"lng": -73.996864
+},{
+	"name": "Macy's",
+	"lat": 40.750530,
+	"lng": -73.989100
+},{
+	"name": "Madison Square Garden",
+	"lat": 40.750644,
+	"lng": -73.993113
+},{
+	"name": "Empire State Building",
+	"lat": 40.748365,
+	"lng": -73.985442
+},{
+	"name": "Rockefeller Center",
+	"lat": 40.758740,
+	"lng": -73.978674
+},{
+	"name": "World Trade Center",
+	"lat": 40.711801,
+	"lng": -74.013120
+},{
+	"name": "Times Square",
+	"lat": 40.758895,
+	"lng": -73.985131
+},{
+	"name": "United Nations",
+	"lat": 40.748876,
+	"lng": -73.968009
+},{
+	"name": "Central Park",
+	"lat": 40.783190,
+	"lng": -73.965797
+},{
+	"name": "Wall Street Bronze Bull",
+	"lat": 40.705232,
+	"lng": -74.013541
+},{
+	"name": "Columbus Circle",
+	"lat": 40.768044,
+	"lng": -73.982372
+},{
+	"name": "South Ferry Station",
+	"lat": 40.701328,
+	"lng": -74.013133
+},{
+	"name": "The Statue of Liberty",
+	"lat": 40.689159,
+	"lng": -74.044279
+},{
+	"name": "The High Line",
+	"lat": 40.747870,
+	"lng": -74.004625
+},{
+	"name": "The Metropolitan Museum Of Art",
+	"lat": 40.779407,
+	"lng": -73.963019
+},{
+	"name": "The Williamsburg Bridge",
+	"lat": 40.713609,
+	"lng": -73.972321
+}]

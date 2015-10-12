@@ -1,0 +1,39 @@
+.borough{
+	fill: #83BBE3;
+	stroke: gray;
+	stroke-width: 1;
+}
+
+.station{
+	fill: #DB6968;
+	stroke-width: 1;
+	stroke: white;
+}
+
+.tourist-spot{
+	fill: #DBC968;
+}
+
+#map-wrap{
+	float: left;
+}
+
+#time-slide-wrap{
+	margin-bottom: 30px;
+}
+
+#controllers{
+	width: 400px;
+	float: left;
+	margin: 10px 20px 10px 20px;
+}
+
+.center{
+	display: table;
+	margin: auto;
+}
+
+#month-year{
+	margin-bottom: 30px;
+}
+

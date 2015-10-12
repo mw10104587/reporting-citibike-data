@@ -1,0 +1,159 @@
+Structure 
+
+// Lede
+
+// 
+
+// 
+
+=============================================
+
+News
+Hurricane incoming, stops removed?
+Talk about this? Go to the stops and see what's going on?
+
+=============================================
+
+After the coldfront pass through, temperature in New York City started to drop from 78.8F since September, 30, to 47.5F at 5:34 am October, 3. The coldfront not brought intermittent rain and strong wind, but also brought blue days to Citibike. 
+
+// IMG OF TEMP DROP
+
+=============================================
+
+Who, 
+Citibike riders
+How many of them? Compared to MTA? 
+// DATA HERE
+// The growth chart
+
+
+
+
+=============================================
+
+Data reveals that until September 13, CitiBike has traveled 37191892 Miles, which is the same as traveling around the world 1500 times. They have 145406 annual members, . 
+
+
+
+
+
+
+=============================================
+
+What,
+Less people ride
+// DATA HERE??
+// monthly sum, weekly sum, mapping to temp sum(find the sum threshold) 
+How less? 
+
+
+
+=============================================
+
+According to past data, October is the first month that Citibike riding time starts to decline.
+In 2013, the first year of operation, the total riding time reached 936116179 seconds in September, which is approximately 260032 hours. The next month, the total riding time slightly went down to 237986 hours.
+In 2014, the total riding time hit a 856989845 seconds, 238052 hours, in September. Again, in October, it fell down to 203424 hours.
+October is the first month that New Yorkers start to feel the weather change.
+"Averages don't really tell the story as to feel. You can get a cool last two weeks of August followed by some hot spells in September, but generally in October is when the weather starts balancing out."
+said Jonathan Jaffe, who has been living in New York City for 40 years.
+There had been 8.47% riding time drop in October 2013, and 14.54% in October 2014, this year
+
+=============================================
+
+Why
+Because the weather, probably also becasue of the Hurricane
+Cold, how cold? 
+Rain, how much? 
+Wind, how strong? 
+
+What's gonna happen if you fell, insurance stories.
+
+=============================================
+
+
+
+=============================================
+
+where 
+All NYC, but try to find specific stops
+// DATA HERE
+// find drastic drops of stops
+
+
+
+=============================================
+
+when, 
+= = Winter, based on past data
+
+
+
+Alternatives
+Talk to people from subway stations
+
+
+Other stories
+Membership joined in winter
+
+If you still want to ride a bike in the rain
+http://gothamist.com/2013/05/29/citi_bike_day_2_rain_doesnt_have_to.php
+
+If you still want to ride a bike while it's windy
+
+
+
+
+Context
+Total membership
+
+// make membership cheaper
+http://expansion.citibikenyc.com/
+
+Total stops
+
+
+
+
+
+Quotes
+People who still rides?
+
+=============================================
+
+Conveniency is the main reason that keeps people riding in cold and rainy days. Mike Waring, whose business is at the west-most of Tribeca, has to commute from his home to his office in Chelsea. Neither his office or home is right next to subway station, but they are both close to Citibike stops. "I can go all the way straight down," said Waring. He will always take ride the Citibike unless it is pouring rain or strong wind. "Strong wind isn't fun," he said.
+
+"You can start paddling away," said another Citibike fan, Andrew Battista, who was undocking his bike at the intersection of Columbus Ave. and 84th Street in the rain. Battista said he'll still be riding the bike in the winter unless there is a large pack of snow. "Everyone should be a member of Citibike," he said with a smile on his face.
+
+Here's some Twitter post about their experience who still rode Citibike.
+
+Kate O'Neill ‏@kateo  16h16 hours ago Brooklyn, NY
+Today I rode a Citi Bike in the rain to get to a meeting when my train was running late. That made me feel like a pretty legit New Yorker.
+
+BLAKE-ULAR ‏@BlakeJohnsonTF  Oct 2
+Back to back 1st try citi bike kings in the rain!!!! shawnbriggs PS who in new york? This rain got me… https://instagram.com/p/8VwqLoQe0A/ 
+
+=============================================
+
+
+People who doesn't ride anymore
+
+
+
+
+
+
+
+
+Meet the Causes You're Riding For
+ ARC_Logo_Bttn_HorizStkd_grayscale.png
+The American Red Cross shelters, feeds and provides emotional support to victims of disasters; supplies about 40 percent of the nation's blood; teaches skills that save lives; delivers international humanitarian aid; and supports military members and their families. The Red Cross depends on volunteers and the generosity of the American public to fulfill its mission. Donate directly to the American Red Cross at redcross.org.
+DONATE
+ 
+No child should go hungry in America, but 1 in 5 kids will face hunger this year. Using proven, practical solutions, No Kid Hungry is ending childhood hunger today by ensuring that kids start the day with a nutritious breakfast and families learn the skills they need to shop and cook on a budget. When we all work together, we can make sure kids get the healthy food they need. No Kid Hungry is a campaign of national anti-hunger organization Share Our Strength. Join us at NoKidHungry.org.
+DONATE
+
+
+005_ymcaLogo.png
+The YMCA of Greater New York is, and always will be, dedicated to building healthy, confident, connected and secure children, adults, families and communities. With a focus on youth development, healthy living and social responsibility, the Y nurtures the potential of every youth and teen, improves New York City’s health and well-being and provides opportunities to give back and support neighbors. In scores of neighborhoods across the five boroughs and its camp upstate, the Y makes accessible the support and opportunities that empower more than 500,000 New Yorkers to learn, grow and thrive. Visit ymcanyc.org.
+
+
