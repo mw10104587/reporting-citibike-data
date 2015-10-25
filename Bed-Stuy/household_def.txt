@@ -1,0 +1,360 @@
+Projections of the Number of Households and Families  
+  in the United States:  1995 to 2010
+
+Source:  U.S. Bureau of the Census
+Release date:  May 1996
+  
+    
+INTRODUCTION AND GENERAL ASSUMPTIONS   
+  
+  The projections of the number of households and families in the United 
+States for the years 1995 to 2010 are based on the 1990 census, as enumerated, 
+with modifications for age and race1/, and household estimates from 1991 to  
+19942/, and are projected forward using alternative marital status and 
+household-type proportions. These household projections are not intended as 
+a forecast, but represent the results of assumptions about future trends in 
+population change and household formation. The increase in the number of 
+households (occupied housing units) is not necessarily identical to the volume 
+of housing construction which may take place during the projection period. The 
+number of housing units is likely to differ from the increase in the number of 
+households because of changes in the number of vacant units (vacant housing 
+units are not counted as households), the demolition of existing units, and  
+conversions or mergers in existing structures.   
+  
+Three Alternative Series   
+  
+  Three alternative series were selected to illuminate alternative patterns of 
+future household change. Series 1, based on a time series model, is the 
+preferred projection in light of past and possible future trends in household 
+change. Series 2 reflects the consequences of projected change in the age/sex 
+structure of the population only, that is, assuming no change from the 
+composition in 1990 of the proportion maintaining households for specific 
+types by age and sex. This series provides a basis for evaluating the 
+implications of alternative assumptions in other series. Series 3 reflects the
+consequences of projected change in both the age/sex structure and race/origin 
+composition of the population; again this assumes no change in the composition 
+in 1990 proportions maintaining specific types of households by age and sex, 
+also projected separately by race and Hispanic origin.   
+  
+Household Types   
+  
+  Household types are arranged into two groups: family households and 
+nonfamily households. A family household contains at least two persons -- the 
+householder and at least one other person related to the householder by birth, 
+marriage, or adoption -- and is categorized into three types: married couple; 
+female householder with no spouse present; and male householder with no spouse 
+present. A nonfamily household may contain only one person -- the householder 
+-- or additional persons who are not relatives of the householder. Nonfamily 
+households may be classified as either female nonfamily or male nonfamily 
+households. For each year, the total number of households is the sum of the 
+five mutually exclusive household types. By census definition, householders 
+must be at least 15 years of age.   
+  
+
+  
+DETAILED METHODOLOGY AND ASSUMPTIONS   
+  
+Estimates of Households   
+  
+  These household projections are consistent with the 1990 census, as 
+enumerated, and the household estimates based on administrative records  which 
+advance the 1990 census household count through the decade.3/ It is important 
+to note that these projections differ from previous CPS-based household 
+projections created by the U.S. Census Bureau4/ since independently derived 
+household estimates began only recently and were not available for previous  
+household projections.   
+  
+  The U.S. Census Bureau produces several other products which provide 
+differing estimates of the number of households; these include the American 
+Housing Survey (AHS), the Housing Vacancy Survey (HVS), and the Current 
+Population Survey (CPS).5/ The March CPS is the only one which presents annual 
+detailed characteristics on household composition. All three products indicate 
+a greater number of households than that found in the 1990 census count. Among 
+the reasons for these differences are survey weighting differences, sampling 
+frame variations, and reference month differences. After 1993, the  CPS and 
+HVS were adjusted for the 1990 census net population undercount,6/ thus 
+showing an even larger number of households.   
+  
+Starting Point Issues   
+  
+  The 1994 household estimates, used as the starting point for the household 
+projections, presented two challenges: lack of household type detail, and 
+"jump off" point differences. In the first challenge, the household estimates 
+consistent with the 1990 census as enumerated included data only for the total 
+number of U.S. households by 5-year age groups; specific details, such as type 
+of household and marital status of householder, required to project the future 
+household composition, were not available. Therefore, these items were 
+obtained from the 1990 census and carried forward based on proportional annual 
+changes in the CPS. For each year, 1990 through 1994, sums of these detailed 
+household types were calculated; these sums differed from the official 
+estimates. To obtain estimates by type consistent with the official total, the 
+detailed household-type projections were multiplied by the ratio of their sums 
+to the official total estimates for each year.   
+  
+  The second challenge emerged in the first projection year, 1995. The 
+difference between the total number of households, controlled to the previous 
+estimates (1990 through 1994) and the projected number of households with no 
+control produced dramatic shifts in the rate of household change from 1994 to 
+1995, an artifact of different methodologies to arrive at the total number. 
+Therefore, an overall check (by broad age group) was created by averaging the 
+annual modifications for the 5 overlapping years (1990 through 1994) and then  
+applying these averaged adjustments to the total projected number of 
+households by broad age group for every year from 1995 to 2010.   
+  
+Demographic Assumptions   
+  
+  Various demographic factors influence trends in household change.  Age at 
+first marriage influences the proportion of persons never married. Increased 
+age at first marriage can lead to an increase in the proportion of younger 
+persons in nonfamily living arrangements, either living alone or with 
+roommates and can reduce the proportion of persons maintaining family 
+households. Divorces can influence household composition by leading to 
+increases in adults forming their own households; that is, family households 
+with no spouse and nonfamily households, thereby reducing the proportion 
+maintaining married-couple households. The effect of nonmarital childbearing 
+augments the proportion of family households with no spouse present, 
+especially female family householders with children. Postponed or foregone 
+childbearing may also decrease the proportion of younger married couples with 
+children and delayed childbearing may increase the proportion of older married 
+couples with children. Longer life expectancy (assumed in the base population 
+projections P25-1130) increases the proportion of married couples in older 
+ages by deferring widowhood; however, differential increases in life 
+expectancy by sex can lead to more people living alone at older ages. All of 
+these demographic effects may be accentuated by the changes in the age 
+composition of the population.   
+  
+
+  Although many of these demographic trends changed dramatically during the 
+1970's and 1980's, recent evidence suggests some of these demographic 
+components may be slowing and, in some cases, reversing themselves7/. Hence, 
+the following assumptions and rationale underlie the household projections. 
+First, age at first marriage will continue to increase, but at a slower pace 
+than previously. Since the late 1970's and early 1980's, the quinquennial 
+increases in percent never married have become gradually smaller for younger 
+age groups (under 30). This suggests that we have passed the peak in the rate 
+of increase and may expect more modest future gains in age at first marriage.   
+  
+  Second, the divorce rate leveled off and declined slightly after 1979.  This 
+had an especially striking effect in reducing the rate of change in the 
+married-couple household proportions ages 20-44. As these cohorts become older 
+during the next 15 years, a similar leveling can be expected at the older 
+ages. The leveling of divorce also moderates change in the proportion of 
+persons with children but no spouse in the home, especially for women. 
+Although the proportion of men maintaining other families has been increasing 
+through age 34, an acceleration of this trend seems unlikely.   
+  
+Methodology   
+  
+  The methodology used to create the projections in this report employed five 
+household-type matrices: married-couple household; female family household, no 
+spouse present; male family household, no spouse present; nonfamily, female 
+householder; and nonfamily, male householder; and one marital status matrix 
+(never married, ever married). Each matrix contained proportions by the 
+demographic characteristics of the householder: age group (15-17, 18-19, 
+20-24, 25-29, 30-34, 35-44, 45-54, 55-64, 65-74, 75+), sex (male, female), 
+race (Total; White; Black; American Indian, Eskimo, and Aleut; Asian and 
+Pacific Islander), and Hispanic origin (Hispanic origin or not of Hispanic 
+origin). The projected number of households by type is the product of the 
+proportions by type of household and the household population at risk.   
+  
+  Compared to earlier household projection reports, data used in this report 
+are blended from a large number of sources: the 1990 census, the 1959-1993 
+Current Population Surveys (CPS), estimates of the number of households 
+(1990-1994), population estimates (1990-1994), and population projections 
+(1995-2010).   
+  
+
+
+Creation of the household population.   
+  
+  By definition, the household population consists of the resident population 
+excluding people living in group quarters (i.e., 9 or more people living 
+together who are unrelated to the householder).  Projections of the group 
+quarters population (GQ) are calculated using constant rates (by single years 
+of age, sex, race, and Hispanic origin) based on the 1990 census.8/ For each 
+year, the GQ rates were applied to future populations by age, sex, race, and 
+Hispanic origin to create the projected group quarters population. The 
+difference between the projected resident population and the projected group 
+quarters population is the projected household population. The projected 
+population in households was then summed for each year to form the ten broad 
+age groups specified earlier and the under 15 population.   
+  
+Creation of future proportions maintaining households. The proportions used in 
+Series 1 were initially founded on a time series model. This model was based 
+on estimates of the annual changes in householder proportions for the past 
+three decades to project changes to the year 2010. One hundred annual 
+proportion series from 1959 to 1993 of marital status9/ and type of 
+householder10/ data by age and sex were prepared based on Current Population 
+Survey data. Slight changes in the CPS and its universe during the time period 
+required several modifications to the data in order to preserve a consistent 
+series of household proportions (see P25-986).   
+  
+  The 100 sets of proportions were first transformed using the logistic 
+transformation, which is often used to transform a data set of proportions to 
+better approximate a normal distribution. If xt is the proportion in a given 
+category for the year t, the transformed value, yt, is   
+  
+  yt = log(xt/(1-xt))  
+   
+  
+  Since values of exactly 0 and exactly 1 cannot be used with this 
+transformation, values of 0 were defined to be outliers, effectively removing 
+them from the model fitting. There were no values of exactly 1. A time series 
+model (discussed below) was fitted to each yt series. Empirical outlier 
+detection techniques were applied as part of the model fitting. The model was 
+then used (with a restriction discussed below) to forecast yt, and forecasts  
+of xt were obtained from the inverse transformation,  
+
+  xt =  exp(yt)/(1 + exp(yt)).  
+    
+ 
+  The time series model used was the ARIMA(0,2,1) model, which involves twice 
+differencing the yt series and modeling autocorrelation in the resulting 
+differenced series with a moving average (MA) model of order 1. This model was 
+used in developing a previous set of household projections, as discussed in 
+more detail by  Bell, et al. (1986).11/ Forecasts from this model (of the 
+transformed data) follow a straight line emanating from the last data point. 
+The slope of the forecast line is estimated by a weighted average of the year-
+to-year changes (first differences), with more weight given to the changes in 
+recent years as long as the MA parameter is less than 1. The model implicitly 
+allows for changing trends in that as new data become available the slope of 
+the forecast line changes.   
+  
+  When the ARIMA(0,2,1) model was fitted to the 100 time series of transformed 
+proportions, estimates of the MA parameter were equal to 1 for about 75 
+percent of the series, and for many of the remaining series the parameter 
+estimates were near 1. When the MA parameter is 1, the ARIMA(0,2,1) model 
+reduces to a constant slope model with all the historical data given equal 
+weight in determining the slope. Rather than accept this result from the 
+fitted models, forecasting was instead performed with the MA parameter set 
+equal to .85 for every series. This was done for two reasons. First, since the
+time series available are relatively short (35 observations), there is 
+actually considerable uncertainty about the correct or best values of the MA 
+parameters.  Second, it was believed appropriate for the most recent data to 
+exert heavier influence in the determination of the slope of the forecast
+line.   
+  
+  The preliminary projected results based on this model were judged to be on 
+the high side of the range of reasonable demographic assumptions.  (See 
+Demographic Assumptions section.) Thus, Series 1 projections were developed by 
+using projected slopes that were less extreme than those obtained from the 
+model described above. Specifically, the change in the proportions never 
+married were reduced by two-thirds for ages under 35 and three-quarters for 
+ages 35 and over; the change in the proportions for married-family households 
+were reduced by one-third for all age groups. Since there was little projected 
+change in the remaining household types, those proportions were simply left at 
+their 1990 level.   
+  
+  In order to provide projections more refined than in the past with regard to 
+living alone and children in households, special tabulations from the 1990 
+census were generated for this report; these proportions are assumed to remain 
+constant at their 1990 levels throughout the projected time period. This 
+included the proportion of nonfamily households with people living alone, the 
+proportion of families by type of family with children, and the proportion of 
+married couples by sex of the reference person   
+  
+Creation of marital status projections.   
+  
+  Since householders and spouses in married-couple families are limited to the 
+population who are ever married, projections of married-couple families 
+require projections of the marital status (never married and ever married) of 
+the future household population. First, initial proportions of the household 
+population ever married by age, sex, race, and Hispanic origin were created. 
+Then, future proportions were derived by multiplying the ever-married 
+proportion's projected rate of change (based on time series data for Series 1; 
+for Series 2 and 3 the projected change is 1.0; that is, no change) by the 
+previous year's proportion by age, sex, race, and Hispanic origin. These 
+proportions are multiplied by the projected household population for each  
+corresponding year to produce the projected ever-married population for each 
+year.   
+  
+Creation of married-couple household projections. 
+
+Current proportions of married-couple families are based on the ever-married  
+universe. The change in the projected proportion of married-couple families 
+(based on time series data for Series 1; for Series 2 and 3, the projected 
+change is 1.0; that is, no change) is multiplied by the current rate for each 
+subsequent year, creating projected annual proportions of married-couple 
+households. Then, the projected proportions of married-couple households by 
+age, sex, race, and Hispanic origin for each year are applied to the future 
+ever-married population to produce the annual number of married-couple 
+households.12/   
+  
+Creation of other family and nonfamily household projections.   
+  
+  The universe for female family households, male family households, and 
+nonfamily households is the total population in households minus the 
+population in married-couple households (husbands and wives).  Starting 
+proportions from the 1990 census are created for each household type for the 
+base year by age, sex, race, and Hispanic origin. Then, projected proportions 
+are created by applying the annual change in the household formation by type 
+(based on time series data for Series 1; for Series 2 and 3, the projected 
+change is 1.0; that is, no change) to the proportion in the previous year. The 
+number of households by type are derived by multiplying the annual proportions
+by the population for each year.   
+  
+  
+SYMBOLS   
+  
+-  Represents zero or rounds to zero.   
+  
+NA Not available.   
+  
+X  Not applicable.  
+
+\1  See Byerly, Edwin R. and Kevin Deardorff, National and State Population 
+Estimates: 1990 to 1994, U.S. Bureau of the Census, Current Population 
+Reports, P25-1127, U.S. Government Printing Office, Washington, DC, 1995.  
+
+\2  See Census Bureau Press Release CB95-108, Estimates of Housing Units, 
+Households, and Persons per Household for States: April 1, 1990 and July 1, 
+1994, June 12, 1995.  
+
+\3  See Prevost, Ron, State Housing Unit and Household Estimates: April 1, 
+1980, to July 1, 1993, U.S. Bureau of the Census, Current Population Reports, 
+P25-1123, U.S. Government Printing Office, Washington, DC, 1994.  
+
+\4  Current Population Reports P25-986; P25-805; P25-607; P25-394; P25-360; 
+P20-123; P20-90; P20-69; and P20-42.  
+
+\5  The American Housing Survey and the Housing Vacancy Survey focus on 
+housing units. By definition, the number of households is equivalent to the 
+number of occupied housing units.  
+
+\6  Beginning in 1994, the Current Population Survey began using in its base 
+population controls the 1990 census adjusted for undercount by the Post 
+Enumeration Survey. For more specific details on the Current Population Survey 
+population base, see Bureau of Labor Statistics, "Introduction of 1990 
+Census-Based Population Controls" in Employment and Earnings, Vol. 41, No. 2, 
+February 1994, pp.32-37.  
+  
+\7  For further information see Current Population Reports, P20-483 and 
+P20-484.  
+
+
+\8  These numbers cannot be directly compared to published results by age and 
+race because modifications were made to the data to adjust for age 
+misreporting and the reporting of an unspecified race in the 1990 census. This 
+file also includes corrections to the census made through March 1994.  
+
+\9  Only one marital status group needed to be calculated since the remainder 
+is ever married.  
+
+\10  These householder types included married-couple householders, family 
+householders with no spouse present, and nonfamily householders;  this series 
+also included proportions of persons in households not related to the 
+householder.  
+
+\11  Bell, William R., James E. Bozik, Sandra K. McKenzie, and Holly B. 
+Shulman (1986) Time Series Analysis of Household Headship Proportions: 
+1959-1985, Research Report Number 86/01, Statistical Research Division, U.S. 
+Bureau of the Census.  
+
+\12  As a technical refinement to take into account current data collection 
+procedures which distinguish whether the husband or wife is listed as the 
+reference person in a married-couple household, the following adjustment was 
+made. The number of married-couple men and women was obtained as the average 
+number of males and females maintaining married-couple households. Using 
+proportions of reported male and female householders in married-couple 
+households from the 1990 census, the sex of the householder was determined for 
+each age/race/origin group; the remainder were classified as spouses.  

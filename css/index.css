@@ -1,3 +1,8 @@
+body{
+	margin: 0;
+}
+
+
 .borough{
 	fill: #83BBE3;
 	stroke: gray;
@@ -5,9 +10,19 @@
 }
 
 .station{
-	fill: #DB6968;
-	stroke-width: 1;
-	stroke: white;
+	/*fill: #DB6968;*/
+	/*stroke-width: 1;*/
+	/*stroke: rgba(0,0,0,0.8);*/
+}
+
+#cover-photo-wrap{
+	width: 100%;
+	height: auto;
+}
+
+#cover-photo{
+	width: 100%;
+	height: auto;
 }
 
 .tourist-spot{
@@ -22,7 +37,7 @@
 	margin-bottom: 30px;
 }
 
-#controllers{
+.controllers{
 	width: 400px;
 	float: left;
 	margin: 10px 20px 10px 20px;
@@ -31,9 +46,27 @@
 .center{
 	display: table;
 	margin: auto;
+	margin-top: 40px;
+	position: relative;
+}
+
+#first-center{
+	margin: 0;
 }
 
 #month-year{
 	margin-bottom: 30px;
 }
 
+.caption{
+	width: 960px;
+	margin-top: 3px;
+}
+
+.paragraph{
+	width: 900px;
+	margin: 15px 0px 15px 0px;
+	font-size: 22px;
+    line-height: 27px;
+    text-align: justify; 
+}

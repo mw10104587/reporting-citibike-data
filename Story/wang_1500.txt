@@ -1,0 +1,67 @@
+After Citi Bike expanded its stations into the Brooklyn and Queens neighborhoods of Long Island City, Greenpoint, Williamsburg and Bedford-Stuyvesant, their total rides reached 1.2 million in September 2015, a new record. Among the 1.2 million, male still had an overwhelming majority with 0.8 million rides, and female accounted for 0.26 million trips. The good news is, the fraction of female rides has reached a new high, 25 percent.
+
+One of the main goals of expansion into Queens and Brooklyn was to attract more women and less wealthy people to ride Citi Bikes. According to the data Citi Bike released recently, they seem to have made progress in attracting more females into their system, but failed to reach their goals of usage in these neighborhoods.
+
+According to a research conducted by the Rudin Center of New York University, women tend to ride their bikes from a safe stop with lower bike incident rates and less traffic. Women also have a higher percentage of starting a trip from stations adjacent to a bike lane. The neighborhoods of Long Island City, Bedford-Stuyvesant, Williamsburg and Greenpoint are expected to provide safer and friendlier biking environments for women.  
+
+In this visualized data of Citi bike September ride, each red dot indicates a Citi Bike station. The opacity of red dot represents the fraction of female ridership. With a threshold of 0.4, as long as the station has more than 40 percent of rides started by a woman, than it has the opacity of one, giving it a solid color. There is one solid dot on Manhattan Island, and six solid dots in Brooklyn. 
+
+The only Citi Bike station that had more female rides in New York City in September was the one located on Putnam Avenue and Throop Avenue, with 147 female rides, 123 male rides and 118 unknown gender rides. Being in a residential district, the traffic here is always light. Another station that ranked second with 46.7 percent of female rides was on Greene Avenue and Throop Avenue. Both of them sit on the intersection of two one way roads, they are both in a residential area and most important of all, they both are right next to a wide single-lane road with a bike lane.
+
+According to a report conducted in Bedford-Stuyvesant by the Brooklyn District Public Health Office (BKDPHO), 89 percent of the observed 2,461 cyclists were riding in the bike lane, and 95 percent of them preferred the road with a bike lane.
+
+The popularity among female riders is also related to the demographics in Bedford-Stuyvesant. According to the census data released by nyc.gov, 54 percent of the population, 82,000 people, in this neighborhood are female. The ratio is much higher than Greenpoint and Williamsburg’s 50.5 percent and Long Island City's 51 percent.
+
+Other stations with a female fraction larger than 40 percent include stations at Franklin Street and DuPont Street; Graham Avenue and Withers Street; Leonard Street and Boerum Street; and Bond Street and Fulton Street. 
+
+What is interesting in the data is that the station at Bond Street and Fulton Street had low ridership in September, only seven trips. Only three women and four men started a ride from that station, as a consequence of it not opening until September 29. Nevertheless, it still had a 42.8 percent of female ridership in two days. With all these indicators, Brooklyn is arguably a great choice to fulfill the goal of increasing female ridership.
+
+"When it comes to safety, bike lanes for sure. I think Brooklyn, in general is pretty good for bike riding, way better than Manhattan," said Nora Quinn, a female bike owner who has been living in Bedford-Stuyvesant for eight years. 
+
+After applied and received a $75 thousand grant provided by Better Bike Share Partnership, Bedford Stuyvesant Restoration Corporation (BedStuy Restoration) has been promoting bike-sharing programs in the neighborhood. Working as partnership with Citi Bike and the BKDPHO, BedStuy Restoration tries to find creative ways to increase ridership of color people and women. However, the price is still the biggest barrier. Even the discount prices, $65 or $70, are still too expensive for low-income families.
+
+Biking has always been a contentious topic in Bedford-Stuyvesant. Due to the gentrification that caused a drastic change in the housing prices, residents thought that bike lanes and Citi Bike are only here to service and draw more gentrifiers into this neighborhood. "Many people feel like, this is not something for them," said Robert Jones, who manages the Active Transportation program at the BKDPHO. As more gentrifiers move in, the housing cost will get even higher, and a lot of original residents will have to leave Bedford-Stuyvesant.
+
+
+"We are committed to doing more to increase diversity of all kinds in our membership base," said a spokesperson of Citi Bike. "This summer's expansion of Citi Bike was by most measures an overwhelming success. Calls to our hotline are down and consumer confidence is up." 
+
+Citi Bike expects to see more female ridership as they expand, as they already see higher female ridership in neighborhoods outside of the Manhattan core. "We will continue to reach out to diverse populations to ensure that Citi Bike is for everyone," said the spokesperson.
+
+One of Citi Bike's local partners, WE Bike NYC, holds events only open to women, female-identifying and gender nonconforming people. WE Bike NYC will teach newbies how to ride a bike, and also provide tips about how to have fun and which Citi Bike mobile application to use. Citi Bike is very committed to address the issue of gender inequality, and currently the proportion of female Citi Bike membership is already higher than general bicyclist population. "But we know there is still more work to do," said the spokesperson of Citi Bike.
+
+The most popular station for female riders on Manhattan Island stands at the intersection of Lafayette Street and Jersey Street in Soho. According to the same data released by Citi Bike, bikes have been undocked from this station 2,700 times by female riders in September. 
+Spending one hour in front of the bike station on a Tuesday afternoon, there were six women who undocked bikes from this station and four stopped their bikes here. At the same time, only three men left from the station and four men came to the station, providing a relatively high portion of female riders.
+
+Anne Luneae, who works in Soho and commutes from Westchester, takes Metro North to Grand Central and rides a Citi Bike to the station in front of the Broadway-Lafayette Street subway station almost every day. "It's a lot cheaper, it's exercise, it's mental hygiene, and in summer time the subway smells," Luneae said.
+
+Another employee of a startup based in Soho, also rides a bike to this station on a daily basis. Ashley Anderson, who works in marketing, rides a bike at least twice a day. When she has to go out for dinner, she will ride Citi Bike up to four times. "I just love it," said Anderson.
+
+
+Despite the success in raising female riders' rate, the brand new docks installed in Queens and Brooklyn contributed little to ridership citywide. In September, 513 stations contributed 1.28 million rides, but only 62 thousand trips started from the new 90 stations installed in August and September. The other stations contributed 2900 trips on average, which is four times more than these new stations. Population density might be a contributing factor to this problem, while Manhattan is two times denser than Brooklyn and 3.5 times denser than Queens. Higher car ownership in Brooklyn and Queens might also reduce the need of short-term bike rentals.
+
+After the expansion in Brooklyn, people there seem to have different opinions about the new service. 
+
+"I've been waiting for the Citi Bike to come here for two years," said Mathieu Wache, a man with a blue helmet who just got off Citi Bike and took his groceries out of the bike's rack. "Citi Bike saves me 10 minutes every day," he added.
+
+A Greenpointer, Heather Fink, posted on her Instagram, "The entire fucking weekend @citibike no bikes only broken ones! Displeasure!" on October 12. 
+
+// Embed an Instagram post here
+https://instagram.com/p/8vvy9HpkqZ/
+
+"Lost in Brooklyn on a CitiBike is my new workout routine," said Carla.
+// Embed a twitter link here
+
+"I hate Citi Bike, the station is really ugly, they take away a lot of parking spaces, they are super ugly," said Ted Shred, a Brooklyn resident who owns a bike store in Greenpoint. His bike shop's business has been affected pretty much by the "over saturated market," Shred said. "They should give up, it's way too much," he added. 
+
+
+Caroline Samponaro, a Senior Director of Campaigns and Organizing of Transportation Alternatives, a non-profit organization seeking to change NYC transportation priorities, thinks that there is no reason to slow down the expansion, but the DOT should speed up the bike lane network and the installation of protected bike lanes. The hypothesis of safety in numbers also indicates that the more bikers there are, the more safer they will be. 
+
+"It feels safer if you know that there is other people riding around, and that's one of the greatest things about Citi Bike. All the regular New Yorkers riding bikes, creating a traffic coming feeling on the street," said Samponaro.
+
+With an ambitious vision of having 12,000 bikes at over 700 stations by the end of 2017, Citi Bike and the DOT has already started their next phase of expansion. 
+
+Last week, Manhattan Community Board 10 (CB 10), located in Central Harlem, held their transportation committee meeting on October 14th, and talked about the agenda of Citi Bike expansion plans in this region. 
+
+According to Maria Garcia, chair of the transportation committee of CB 10, the DOT is going to hold a briefing on November 10th at their next transportation meeting. They will also host a workshop that demonstrates how other parts of the city have adopted Citi Bike, and collect feedback from individuals about where to install bike stations from 86th Street up to 130th Street. 
+
+"We are the only community board that will have two meetings," said Garcia with a confident look on her face.

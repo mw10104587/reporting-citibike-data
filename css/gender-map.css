@@ -1,0 +1,42 @@
+#gender-map{
+	height: 860px;
+	width: 960px;
+	float: left;
+}
+
+#gender-map-controllers{
+	float: left;
+	/*display: none;*/
+}
+
+#gender-map-controller{
+	display: none;
+}
+
+#third-map-controller{
+	display: none;
+}
+
+.seven-station-tip{
+    padding: 5px 6px 5px 6px;
+    background-color: rgba(255,255,255,0.4);
+}
+
+.tip-station-name{
+	font-weight: bolder;
+	margin-bottom: 5px;
+}
+
+.tip-data{
+	margin-top: 3px;
+}
+
+div#fourth-map-controller {
+    position: absolute;
+    top: 350px;
+    left: 14px;
+}
+
+#hide-stations{
+	color: white;
+}

@@ -1,0 +1,129 @@
+Lede - the growth of ridership
+|
+Female riding issues was the main goal, so we assess the result?
+|
+Bike Lane Data
+|
+several stations selection review
+|
+Harlem is on the way
+
+
+[Data]
+Household car rate 
+http://www.nycedc.com/blog-entry/new-yorkers-and-cars
+
+// talk about the weekly Monday event held by.
+// weekly help riding activity
+
+With a view of receiving more subscribers and developing bike safety knowledge among the poeple, Citi Bike and Bedford Stuyvesant Restoration Corporation are hosting group rides at 6 p.m. every Monday. The trip starts from the plaza at Fulton Street and Marcy Avenue in front of the Applebees. Also, this week on Thursday, October 15, Citi Bike and Bike New York will offer free class teaching people how to use the docking system, and basic coverage of traffic rules, laws and safety tips. The best part is that all participants will receive a free 24-Hour Citi Bike pass, which worth $9.95. 
+
+
+
+
+[Data] 
+Brooklyn
+
+Franklin St & Dupont St: {"unknown":195,"male":325,"female":257}
+
+3094: Graham Ave & Withers St: {"unknown":78,"male":284,"female":195}
+3072: Leonard St & Boerum St: {"unknown":80,"male":137,"female":111}
+3054: Greene Ave & Throop Ave: {"unknown":136,"male":108,"female":95}
+3050: Putnam Ave & Throop Ave: {"unknown":118,"male":123,"female":147}, 276 sub and 113 customer
+3232: Bond St & Fulton St: {"unknown":0,"male":4,"female":3}
+
+Manhattan
+342: Columbia St & Rivington St: {"unknown":105,"male":856,"female":692}
+
+
+
+
+
+
+[Data] 
+
+
+
+
+New stations in Brooklyn in Sep
+3085: Roebling St & N 4 St
+3082: Hope St & Union Ave
+3080: S 4 St & Rodney St
+3232: Bond St & Fulton St
+
+New Stations in Queens in Sep
+3221: 47 Ave & 31 St
+
+
+// According to New York Times another reason that stops female from riding Citi Bike, is ...
+people usually assume that probably female would like to ride a bike in the weekends.
+
+according to the ridership data, female ride even less in the weekends.
+
+[568335, 594282, 604973, 578543, 576678, 489511, 489378]
+
+Compared to past history, female ridership reached the peak on September in 2013 and June in 2014 respectively, which both is not the hottest August. This year, female riders reached a peak on September and are expected to decline on October. (link to my own article)
+
+
+
+
+Ref:
+
+//http://www.nyc.gov/html/doh/downloads/pdf/dpho/dpho-brooklyn-bike-bedstuy.pdf
+
+
+start at Broadway & jersey St.
+[
+    17, 
+    6, 
+    6, 
+    0, 
+    0, 
+    1, 
+    11, 
+    57, 
+    91, 
+    74, 
+    75, 
+    97, 
+    104, 
+    122, 
+    115, 
+    128, 
+    114, 
+    160, 
+    250, 
+    147, 
+    87, 
+    39, 
+    34, 
+    10
+]
+
+end at Broadway & jersey St.
+[
+    3, 
+    2, 
+    1, 
+    2, 
+    3, 
+    10, 
+    49, 
+    71, 
+    147, 
+    125, 
+    87, 
+    114, 
+    117, 
+    106, 
+    110, 
+    115, 
+    127, 
+    181, 
+    147, 
+    99, 
+    51, 
+    26, 
+    25, 
+    13
+]

@@ -3,8 +3,17 @@
 bikeStationIdDict = {};
 d3.json("../bike_stop_id_to_geodata.json", function(error, bikeStationData){
 	bikeStationIdDict = bikeStationData;
-	// console.log(bikeStationData);
+	console.log(bikeStationData);
 });
+
+
+function getBikeStationAddressWith(id){
+	return bikeStationIdDict[id];
+}
+
+function getBikeStationIdDict(){
+	return bikeStationIdDict;
+}
 
 bikeStationTouristRatioData = [];
 
@@ -21,21 +30,24 @@ $(document).ready(function(){
 	var svg = d3.select("#map-svg");
 	console.log(svg);
 
-	svg.attr("width", width)
-	   .attr("height", height);
+	// svg.attr("width", width)
+	   // .attr("height", height);
 
 	var bikeStationTouristRatioData = [];
 
 
 	// draw the map
 	d3.json("../nyc_map/borough_topo.json", function(error, nyc) {
+
+	  return;
+
 	  if (error) return console.error(error);
 
 	  // (40.755775, -73.982620) center for Manhattan island
 
 		projection = d3.geo.mercator()
   					.center([-73.975239, 40.731698])
-  					.scale(340000)
+  					.scale(250000)
   					.translate([(width) / 2, (height)/2]);
 
   		var path = d3.geo.path()
@@ -101,8 +113,6 @@ $(document).ready(function(){
 		initTouristSpots();
 
 	});
-
-
 
 
 
@@ -233,7 +243,7 @@ function initDateSlide(){
 	// Create two timestamps to define a range.
 	    range: {
 	        min: timestamp('2013/8'),
-	        max: timestamp('2015/8')
+	        max: timestamp('2015/9')
 	    },
 
 	// Steps of one week
@@ -324,9 +334,15 @@ function updateMapWith(date){
 					}else{
 						return "#DB6968";
 					}
+				})
+				.on("click", function(d){
+					console.log(d.stop_id);
+					d3.select(this).remove();
 				});
 
 			bikeStops.attr("opacity", function(d){
+
+				// return 1;
 				// console.log(parseInt(d.customer_ride_count)/parseInt(d.month_total_ride));
 				return parseInt(d.customer_ride_count)/parseInt(d.month_total_ride)
 			});
